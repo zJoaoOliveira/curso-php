@@ -20,9 +20,7 @@ Quer aprender a desenvolver sistemas Web com PHP? Está no lugar certo! Seja um 
 ## Requisitos
 
   - Conhecimento prévio de Lógica de Programação;
-    <a href="https://discord.io/he4rt" target="_blank">
-        - Participar desse grupo sensacional:
-    </a>
+  - [Participar desse grupo sensacional](https://discord.io/he4rt)
   
 
 
