@@ -8,13 +8,18 @@
 
 ## Descrição
 
-Quer aprender a desenvolver sistemas Web com PHP? Está no lugar certo! Seja um primo e aprenda PHP com o melhor grupo de desenvolvedores, aqui você aprenderá na prática, os fundamentos da linguagem que está no primeiro lugar de vagas de emprego há muito tempo quando o assunto é back-end na Web.
+Quer aprender a desenvolver sistemas Web com PHP? Está no lugar certo! Seja um primo e aprenda PHP com o melhor grupo de desenvolvedores, aqui você aprenderá na prática, os fundamentos da linguagem que está no primeiro lugar de vagas de emprego há muito tempo quando o assunto é back-end na Web.</br>
+
+O curso está focado para quem é extremamente iniciante e não tem uma noção de como programar na linguagem PHP ou qualquer outra. Logo, as primeiras sessões irão pegar desde montar um ambiente de desenvolvimento até um mais avançado como Arquitetura de Projeto (MVC).
 
 ## O que você aprenderá?
 
   - Programar utilizando os fundamentos de PHP;
   - PHP orientado a objetos;
-  - Acesso ao banco de dados com PDO.
+  - Acesso ao banco de dados com PDO;
+  - Estrutura MVC
+  - Aprender a base para se tornar um Back-end.
+  - Praticar e criar projetos para seu portfólio.
 
 
 ## Requisitos
