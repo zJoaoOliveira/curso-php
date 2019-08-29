@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://heartdevs.com/wp-content/uploads/2018/12/logo.png" width="215"><br>
+  <img src="https://heartdevs.com/dist/images/logo-he4rt.png" width="120"><br>
 </h3> 
 
 ## Descrição
